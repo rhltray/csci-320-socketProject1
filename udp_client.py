@@ -7,7 +7,7 @@ import socket
 import os
 import argparse
 
-IP = '127.0.0.1'  # change to the IP address of the server
+IP = '10.33.20.65'  # change to the IP address of the server
 PORT = 12000  # change to a desired port number
 BUFFER_SIZE = 1024  # change to a desired buffer size
 
